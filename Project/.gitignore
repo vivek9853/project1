@@ -55,3 +55,4 @@ msbuild.log
 msbuild.err
 msbuild.wrn
 *.vsidx/
+*.suo
