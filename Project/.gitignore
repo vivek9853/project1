@@ -1,0 +1,11 @@
+###############
+#    folder   #
+###############
+/**/DROP/
+/**/TEMP/
+/**/packages/
+/**/bin/
+/**/obj/
+/**/deployments/
+_site
+log.txt
